@@ -2,6 +2,12 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
+//João Pedro Lopes - 21350193;
+//Pedro Metta - 21233743;
+//João Cunha - 21350920; 
+//Alexandre - 21354737;
+
+
 public class Main {
     
 
